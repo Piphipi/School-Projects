@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=inFile1\ outFile1
+comment1.target=void\ processInts(java.util.Scanner,\ java.io.FileWriter)
+comment2.params=inFile2\ outFile2
+comment2.target=void\ processWords(java.util.Scanner,\ java.io.FileWriter)
+numComments=3
