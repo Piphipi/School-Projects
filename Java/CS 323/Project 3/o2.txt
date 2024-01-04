@@ -1,0 +1,353 @@
+Enter informationProcessing method 
+The input triplet is: + Cindy Alam
+The index of Cindy is 3
+HashTable[3]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Cindy, Alam
+After hashInsert operation … HashTable[3]: (dummyfirst, dummylast, Cindy) --> (Cindy, Alam, NULL) --> NULL
+The input triplet is: + Siliang Andrade
+The index of Siliang is 12
+HashTable[12]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Siliang, Andrade
+After hashInsert operation … HashTable[12]: (dummyfirst, dummylast, Siliang) --> (Siliang, Andrade, NULL) --> NULL
+The input triplet is: + Rajin Arellano
+The index of Rajin is 1
+HashTable[1]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Rajin, Arellano
+After hashInsert operation … HashTable[1]: (dummyfirst, dummylast, Rajin) --> (Rajin, Arellano, NULL) --> NULL
+The input triplet is: + Billal Arellano
+The index of Billal is 5
+HashTable[5]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Billal, Arellano
+After hashInsert operation … HashTable[5]: (dummyfirst, dummylast, Billal) --> (Billal, Arellano, NULL) --> NULL
+The input triplet is: + Piyush Guo
+The index of Piyush is 6
+HashTable[6]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Piyush, Guo
+After hashInsert operation … HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, NULL) --> NULL
+The input triplet is: * Piyush Guo
+The index of Piyush is 6
+HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, NULL) --> NULL
+op is an unrecognized operation 
+The input triplet is: ? Piyush Guo
+The index of Piyush is 6
+HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Piyush, Guo
+Yes, the record is in the database! 
+The input triplet is: + Ilma Kaur
+The index of Ilma is 6
+HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Ilma, Kaur
+After hashInsert operation … HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Ilma) --> (Ilma, Kaur, NULL) --> NULL
+The input triplet is: + Jurgen Bashir
+The index of Jurgen is 10
+HashTable[10]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Jurgen, Bashir
+After hashInsert operation … HashTable[10]: (dummyfirst, dummylast, Jurgen) --> (Jurgen, Bashir, NULL) --> NULL
+The input triplet is: + Jhonatan Landerer
+The index of Jhonatan is 5
+HashTable[5]: (dummyfirst, dummylast, Billal) --> (Billal, Arellano, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Jhonatan, Landerer
+After hashInsert operation … HashTable[5]: (dummyfirst, dummylast, Billal) --> (Billal, Arellano, Jhonatan) --> (Jhonatan, Landerer, NULL) --> NULL
+The input triplet is: + Mohammed Patel
+The index of Mohammed is 6
+HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Ilma) --> (Ilma, Kaur, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Mohammed, Patel
+After hashInsert operation … HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Ilma) --> (Ilma, Kaur, Mohammed) --> (Mohammed, Patel, NULL) --> NULL
+The input triplet is: + Mohammed Shaharin
+The index of Mohammed is 6
+HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Ilma) --> (Ilma, Kaur, Mohammed) --> (Mohammed, Patel, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Mohammed, Shaharin
+After hashInsert operation … HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Ilma) --> (Ilma, Kaur, Mohammed) --> (Mohammed, Patel, Mohammed) --> (Mohammed, Shaharin, NULL) --> NULL
+The input triplet is: + Ziyu Zhang
+The index of Ziyu is 9
+HashTable[9]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Ziyu, Zhang
+After hashInsert operation … HashTable[9]: (dummyfirst, dummylast, Ziyu) --> (Ziyu, Zhang, NULL) --> NULL
+The input triplet is: + Eliyahu Roth
+The index of Eliyahu is 8
+HashTable[8]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Eliyahu, Roth
+After hashInsert operation … HashTable[8]: (dummyfirst, dummylast, Eliyahu) --> (Eliyahu, Roth, NULL) --> NULL
+The input triplet is: + Rajesh Mandal
+The index of Rajesh is 9
+HashTable[9]: (dummyfirst, dummylast, Ziyu) --> (Ziyu, Zhang, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Rajesh, Mandal
+After hashInsert operation … HashTable[9]: (dummyfirst, dummylast, Rajesh) --> (Rajesh, Mandal, Ziyu) --> (Ziyu, Zhang, NULL) --> NULL
+The input triplet is: + Romanbir Shaharin
+The index of Romanbir is 4
+HashTable[4]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Romanbir, Shaharin
+After hashInsert operation … HashTable[4]: (dummyfirst, dummylast, Romanbir) --> (Romanbir, Shaharin, NULL) --> NULL
+The input triplet is: ? Romanbir Shaharin
+The index of Romanbir is 4
+HashTable[4]: (dummyfirst, dummylast, Romanbir) --> (Romanbir, Shaharin, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Romanbir, Shaharin
+Yes, the record is in the database! 
+The input triplet is: + Juan Wangyal
+The index of Juan is 6
+HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Ilma) --> (Ilma, Kaur, Mohammed) --> (Mohammed, Patel, Mohammed) --> (Mohammed, Shaharin, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Juan, Wangyal
+After hashInsert operation … HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Ilma) --> (Ilma, Kaur, Mohammed) --> (Mohammed, Patel, Mohammed) --> (Mohammed, Shaharin, Juan) --> (Juan, Wangyal, NULL) --> NULL
+The input triplet is: - Cindy Alam
+The index of Cindy is 3
+HashTable[3]: (dummyfirst, dummylast, Cindy) --> (Cindy, Alam, NULL) --> NULL
+** Inside hashDelete method. Performing hashDelete on Cindy, Alam
+After hashDelete operation … HashTable[3]: (dummyfirst, dummylast, NULL) --> NULL
+The input triplet is: - Siliang Andrade
+The index of Siliang is 12
+HashTable[12]: (dummyfirst, dummylast, Siliang) --> (Siliang, Andrade, NULL) --> NULL
+** Inside hashDelete method. Performing hashDelete on Siliang, Andrade
+After hashDelete operation … HashTable[12]: (dummyfirst, dummylast, NULL) --> NULL
+The input triplet is: - Ilma Kaur
+The index of Ilma is 6
+HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Ilma) --> (Ilma, Kaur, Mohammed) --> (Mohammed, Patel, Mohammed) --> (Mohammed, Shaharin, Juan) --> (Juan, Wangyal, NULL) --> NULL
+** Inside hashDelete method. Performing hashDelete on Ilma, Kaur
+After hashDelete operation … HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Mohammed) --> (Mohammed, Patel, Mohammed) --> (Mohammed, Shaharin, Juan) --> (Juan, Wangyal, NULL) --> NULL
+The input triplet is: ? Ilma Kaur
+The index of Ilma is 6
+HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Mohammed) --> (Mohammed, Patel, Mohammed) --> (Mohammed, Shaharin, Juan) --> (Juan, Wangyal, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Ilma, Kaur
+Something is wrong with the findSpot method! 
+The input triplet is: ? Cindy Alam
+The index of Cindy is 3
+HashTable[3]: (dummyfirst, dummylast, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Cindy, Alam
+Something is wrong with the findSpot method! 
+The input triplet is: - Romanbir Shaharin
+The index of Romanbir is 4
+HashTable[4]: (dummyfirst, dummylast, Romanbir) --> (Romanbir, Shaharin, NULL) --> NULL
+** Inside hashDelete method. Performing hashDelete on Romanbir, Shaharin
+After hashDelete operation … HashTable[4]: (dummyfirst, dummylast, NULL) --> NULL
+The input triplet is: + Stefan Petersen
+The index of Stefan is 11
+HashTable[11]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Stefan, Petersen
+After hashInsert operation … HashTable[11]: (dummyfirst, dummylast, Stefan) --> (Stefan, Petersen, NULL) --> NULL
+The input triplet is: + John Tavoli
+The index of John is 1
+HashTable[1]: (dummyfirst, dummylast, Rajin) --> (Rajin, Arellano, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on John, Tavoli
+After hashInsert operation … HashTable[1]: (dummyfirst, dummylast, Rajin) --> (Rajin, Arellano, John) --> (John, Tavoli, NULL) --> NULL
+The input triplet is: ? Siliang Andrade
+The index of Siliang is 12
+HashTable[12]: (dummyfirst, dummylast, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Siliang, Andrade
+Something is wrong with the findSpot method! 
+The input triplet is: + Ali Varadi
+The index of Ali is 7
+HashTable[7]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Ali, Varadi
+After hashInsert operation … HashTable[7]: (dummyfirst, dummylast, Ali) --> (Ali, Varadi, NULL) --> NULL
+The input triplet is: + Navil Long
+The index of Navil is 5
+HashTable[5]: (dummyfirst, dummylast, Billal) --> (Billal, Arellano, Jhonatan) --> (Jhonatan, Landerer, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Navil, Long
+After hashInsert operation … HashTable[5]: (dummyfirst, dummylast, Billal) --> (Billal, Arellano, Jhonatan) --> (Jhonatan, Landerer, Navil) --> (Navil, Long, NULL) --> NULL
+The input triplet is: - Jurgen Bashir
+The index of Jurgen is 10
+HashTable[10]: (dummyfirst, dummylast, Jurgen) --> (Jurgen, Bashir, NULL) --> NULL
+** Inside hashDelete method. Performing hashDelete on Jurgen, Bashir
+After hashDelete operation … HashTable[10]: (dummyfirst, dummylast, NULL) --> NULL
+The input triplet is: ? Jurgen Bashir
+The index of Jurgen is 10
+HashTable[10]: (dummyfirst, dummylast, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Jurgen, Bashir
+Something is wrong with the findSpot method! 
+The input triplet is: + Jorge Ng
+The index of Jorge is 9
+HashTable[9]: (dummyfirst, dummylast, Rajesh) --> (Rajesh, Mandal, Ziyu) --> (Ziyu, Zhang, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Jorge, Ng
+After hashInsert operation … HashTable[9]: (dummyfirst, dummylast, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, Ziyu) --> (Ziyu, Zhang, NULL) --> NULL
+The input triplet is: - Ziyu Zhang
+The index of Ziyu is 9
+HashTable[9]: (dummyfirst, dummylast, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, Ziyu) --> (Ziyu, Zhang, NULL) --> NULL
+** Inside hashDelete method. Performing hashDelete on Ziyu, Zhang
+After hashDelete operation … HashTable[9]: (dummyfirst, dummylast, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, NULL) --> NULL
+The input triplet is: ? Ziyu Zhang
+The index of Ziyu is 9
+HashTable[9]: (dummyfirst, dummylast, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Ziyu, Zhang
+Something is wrong with the findSpot method! 
+The input triplet is: + Juan Pho
+The index of Juan is 6
+HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Mohammed) --> (Mohammed, Patel, Mohammed) --> (Mohammed, Shaharin, Juan) --> (Juan, Wangyal, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Juan, Pho
+After hashInsert operation … HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Mohammed) --> (Mohammed, Patel, Juan) --> (Juan, Pho, Mohammed) --> (Mohammed, Shaharin, Juan) --> (Juan, Wangyal, NULL) --> NULL
+The input triplet is: + Marc Panzer
+The index of Marc is 12
+HashTable[12]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Marc, Panzer
+After hashInsert operation … HashTable[12]: (dummyfirst, dummylast, Marc) --> (Marc, Panzer, NULL) --> NULL
+The input triplet is: ? Eliyahu Roth
+The index of Eliyahu is 8
+HashTable[8]: (dummyfirst, dummylast, Eliyahu) --> (Eliyahu, Roth, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Eliyahu, Roth
+Yes, the record is in the database! 
+The input triplet is: + Christopher Rayamajhee
+The index of Christopher is 1
+HashTable[1]: (dummyfirst, dummylast, Rajin) --> (Rajin, Arellano, John) --> (John, Tavoli, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Christopher, Rayamajhee
+After hashInsert operation … HashTable[1]: (dummyfirst, dummylast, Rajin) --> (Rajin, Arellano, Christopher) --> (Christopher, Rayamajhee, John) --> (John, Tavoli, NULL) --> NULL
+The input triplet is: - Mohammed Patel
+The index of Mohammed is 6
+HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Mohammed) --> (Mohammed, Patel, Juan) --> (Juan, Pho, Mohammed) --> (Mohammed, Shaharin, Juan) --> (Juan, Wangyal, NULL) --> NULL
+** Inside hashDelete method. Performing hashDelete on Mohammed, Patel
+After hashDelete operation … HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Juan) --> (Juan, Pho, Mohammed) --> (Mohammed, Shaharin, Juan) --> (Juan, Wangyal, NULL) --> NULL
+The input triplet is: + Christian Mcdonald
+The index of Christian is 4
+HashTable[4]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Christian, Mcdonald
+After hashInsert operation … HashTable[4]: (dummyfirst, dummylast, Christian) --> (Christian, Mcdonald, NULL) --> NULL
+The input triplet is: + Sean Uliano
+The index of Sean is 9
+HashTable[9]: (dummyfirst, dummylast, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Sean, Uliano
+After hashInsert operation … HashTable[9]: (dummyfirst, dummylast, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, Sean) --> (Sean, Uliano, NULL) --> NULL
+The input triplet is: ? Mohammed Patel
+The index of Mohammed is 6
+HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Juan) --> (Juan, Pho, Mohammed) --> (Mohammed, Shaharin, Juan) --> (Juan, Wangyal, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Mohammed, Patel
+Something is wrong with the findSpot method! 
+The input triplet is: + Hassan Mohamed
+The index of Hassan is 8
+HashTable[8]: (dummyfirst, dummylast, Eliyahu) --> (Eliyahu, Roth, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Hassan, Mohamed
+After hashInsert operation … HashTable[8]: (dummyfirst, dummylast, Hassan) --> (Hassan, Mohamed, Eliyahu) --> (Eliyahu, Roth, NULL) --> NULL
+The input triplet is: + Minas Saad
+The index of Minas is 4
+HashTable[4]: (dummyfirst, dummylast, Christian) --> (Christian, Mcdonald, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Minas, Saad
+After hashInsert operation … HashTable[4]: (dummyfirst, dummylast, Christian) --> (Christian, Mcdonald, Minas) --> (Minas, Saad, NULL) --> NULL
+The input triplet is: - Eliyahu Roth
+The index of Eliyahu is 8
+HashTable[8]: (dummyfirst, dummylast, Hassan) --> (Hassan, Mohamed, Eliyahu) --> (Eliyahu, Roth, NULL) --> NULL
+** Inside hashDelete method. Performing hashDelete on Eliyahu, Roth
+After hashDelete operation … HashTable[8]: (dummyfirst, dummylast, Hassan) --> (Hassan, Mohamed, NULL) --> NULL
+The input triplet is: ? Eliyahu Roth
+The index of Eliyahu is 8
+HashTable[8]: (dummyfirst, dummylast, Hassan) --> (Hassan, Mohamed, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Eliyahu, Roth
+Something is wrong with the findSpot method! 
+The input triplet is: + Weipei Dashi
+The index of Weipei is 9
+HashTable[9]: (dummyfirst, dummylast, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, Sean) --> (Sean, Uliano, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Weipei, Dashi
+After hashInsert operation … HashTable[9]: (dummyfirst, dummylast, Weipei) --> (Weipei, Dashi, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, Sean) --> (Sean, Uliano, NULL) --> NULL
+The input triplet is: ? Rajin Arellano
+The index of Rajin is 1
+HashTable[1]: (dummyfirst, dummylast, Rajin) --> (Rajin, Arellano, Christopher) --> (Christopher, Rayamajhee, John) --> (John, Tavoli, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Rajin, Arellano
+Yes, the record is in the database! 
+The input triplet is: + Ryan Guerrero
+The index of Ryan is 6
+HashTable[6]: (dummyfirst, dummylast, Piyush) --> (Piyush, Guo, Juan) --> (Juan, Pho, Mohammed) --> (Mohammed, Shaharin, Juan) --> (Juan, Wangyal, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Ryan, Guerrero
+After hashInsert operation … HashTable[6]: (dummyfirst, dummylast, Ryan) --> (Ryan, Guerrero, Piyush) --> (Piyush, Guo, Juan) --> (Juan, Pho, Mohammed) --> (Mohammed, Shaharin, Juan) --> (Juan, Wangyal, NULL) --> NULL
+The input triplet is: + Joshua Bashir
+The index of Joshua is 5
+HashTable[5]: (dummyfirst, dummylast, Billal) --> (Billal, Arellano, Jhonatan) --> (Jhonatan, Landerer, Navil) --> (Navil, Long, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Joshua, Bashir
+After hashInsert operation … HashTable[5]: (dummyfirst, dummylast, Billal) --> (Billal, Arellano, Joshua) --> (Joshua, Bashir, Jhonatan) --> (Jhonatan, Landerer, Navil) --> (Navil, Long, NULL) --> NULL
+The input triplet is: - Rajin Arellano
+The index of Rajin is 1
+HashTable[1]: (dummyfirst, dummylast, Rajin) --> (Rajin, Arellano, Christopher) --> (Christopher, Rayamajhee, John) --> (John, Tavoli, NULL) --> NULL
+** Inside hashDelete method. Performing hashDelete on Rajin, Arellano
+After hashDelete operation … HashTable[1]: (dummyfirst, dummylast, Christopher) --> (Christopher, Rayamajhee, John) --> (John, Tavoli, NULL) --> NULL
+The input triplet is: + Tenzin Ortiz
+The index of Tenzin is 3
+HashTable[3]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Tenzin, Ortiz
+After hashInsert operation … HashTable[3]: (dummyfirst, dummylast, Tenzin) --> (Tenzin, Ortiz, NULL) --> NULL
+The input triplet is: + Muhtasim Juan
+The index of Muhtasim is 7
+HashTable[7]: (dummyfirst, dummylast, Ali) --> (Ali, Varadi, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Muhtasim, Juan
+After hashInsert operation … HashTable[7]: (dummyfirst, dummylast, Muhtasim) --> (Muhtasim, Juan, Ali) --> (Ali, Varadi, NULL) --> NULL
+The input triplet is: + Roberto Chen
+The index of Roberto is 0
+HashTable[0]: (dummyfirst, dummylast, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Roberto, Chen
+After hashInsert operation … HashTable[0]: (dummyfirst, dummylast, Roberto) --> (Roberto, Chen, NULL) --> NULL
+The input triplet is: + Erik Rambaran
+The index of Erik is 7
+HashTable[7]: (dummyfirst, dummylast, Muhtasim) --> (Muhtasim, Juan, Ali) --> (Ali, Varadi, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Erik, Rambaran
+After hashInsert operation … HashTable[7]: (dummyfirst, dummylast, Muhtasim) --> (Muhtasim, Juan, Erik) --> (Erik, Rambaran, Ali) --> (Ali, Varadi, NULL) --> NULL
+The input triplet is: + Gildian Hossain
+The index of Gildian is 7
+HashTable[7]: (dummyfirst, dummylast, Muhtasim) --> (Muhtasim, Juan, Erik) --> (Erik, Rambaran, Ali) --> (Ali, Varadi, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Gildian, Hossain
+After hashInsert operation … HashTable[7]: (dummyfirst, dummylast, Gildian) --> (Gildian, Hossain, Muhtasim) --> (Muhtasim, Juan, Erik) --> (Erik, Rambaran, Ali) --> (Ali, Varadi, NULL) --> NULL
+The input triplet is: ? Gildian Hossain
+The index of Gildian is 7
+HashTable[7]: (dummyfirst, dummylast, Gildian) --> (Gildian, Hossain, Muhtasim) --> (Muhtasim, Juan, Erik) --> (Erik, Rambaran, Ali) --> (Ali, Varadi, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Gildian, Hossain
+Yes, the record is in the database! 
+The input triplet is: + Kenneth Sharma
+The index of Kenneth is 9
+HashTable[9]: (dummyfirst, dummylast, Weipei) --> (Weipei, Dashi, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, Sean) --> (Sean, Uliano, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Kenneth, Sharma
+After hashInsert operation … HashTable[9]: (dummyfirst, dummylast, Weipei) --> (Weipei, Dashi, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, Kenneth) --> (Kenneth, Sharma, Sean) --> (Sean, Uliano, NULL) --> NULL
+The input triplet is: + Sam Paguay
+The index of Sam is 8
+HashTable[8]: (dummyfirst, dummylast, Hassan) --> (Hassan, Mohamed, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Sam, Paguay
+After hashInsert operation … HashTable[8]: (dummyfirst, dummylast, Hassan) --> (Hassan, Mohamed, Sam) --> (Sam, Paguay, NULL) --> NULL
+The input triplet is: + Sharad Rahman
+The index of Sharad is 7
+HashTable[7]: (dummyfirst, dummylast, Gildian) --> (Gildian, Hossain, Muhtasim) --> (Muhtasim, Juan, Erik) --> (Erik, Rambaran, Ali) --> (Ali, Varadi, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Sharad, Rahman
+After hashInsert operation … HashTable[7]: (dummyfirst, dummylast, Gildian) --> (Gildian, Hossain, Muhtasim) --> (Muhtasim, Juan, Sharad) --> (Sharad, Rahman, Erik) --> (Erik, Rambaran, Ali) --> (Ali, Varadi, NULL) --> NULL
+The input triplet is: + Genesis Roman
+The index of Genesis is 9
+HashTable[9]: (dummyfirst, dummylast, Weipei) --> (Weipei, Dashi, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, Kenneth) --> (Kenneth, Sharma, Sean) --> (Sean, Uliano, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Genesis, Roman
+After hashInsert operation … HashTable[9]: (dummyfirst, dummylast, Weipei) --> (Weipei, Dashi, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, Genesis) --> (Genesis, Roman, Kenneth) --> (Kenneth, Sharma, Sean) --> (Sean, Uliano, NULL) --> NULL
+The input triplet is: + Kenny Wu
+The index of Kenny is 12
+HashTable[12]: (dummyfirst, dummylast, Marc) --> (Marc, Panzer, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Kenny, Wu
+After hashInsert operation … HashTable[12]: (dummyfirst, dummylast, Marc) --> (Marc, Panzer, Kenny) --> (Kenny, Wu, NULL) --> NULL
+The input triplet is: + Mengying Yang
+The index of Mengying is 5
+HashTable[5]: (dummyfirst, dummylast, Billal) --> (Billal, Arellano, Joshua) --> (Joshua, Bashir, Jhonatan) --> (Jhonatan, Landerer, Navil) --> (Navil, Long, NULL) --> NULL
+*** enter hashInsert method. Performing hashInsert on Mengying, Yang
+After hashInsert operation … HashTable[5]: (dummyfirst, dummylast, Billal) --> (Billal, Arellano, Joshua) --> (Joshua, Bashir, Jhonatan) --> (Jhonatan, Landerer, Navil) --> (Navil, Long, Mengying) --> (Mengying, Yang, NULL) --> NULL
+The input triplet is: ? Mengying Yang
+The index of Mengying is 5
+HashTable[5]: (dummyfirst, dummylast, Billal) --> (Billal, Arellano, Joshua) --> (Joshua, Bashir, Jhonatan) --> (Jhonatan, Landerer, Navil) --> (Navil, Long, Mengying) --> (Mengying, Yang, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Mengying, Yang
+Yes, the record is in the database! 
+The input triplet is: ? Kenneth Sharma
+The index of Kenneth is 9
+HashTable[9]: (dummyfirst, dummylast, Weipei) --> (Weipei, Dashi, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, Genesis) --> (Genesis, Roman, Kenneth) --> (Kenneth, Sharma, Sean) --> (Sean, Uliano, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Kenneth, Sharma
+Yes, the record is in the database! 
+The input triplet is: % Sam Paguay
+The index of Sam is 8
+HashTable[8]: (dummyfirst, dummylast, Hassan) --> (Hassan, Mohamed, Sam) --> (Sam, Paguay, NULL) --> NULL
+op is an unrecognized operation 
+The input triplet is: ? Sam Paguay
+The index of Sam is 8
+HashTable[8]: (dummyfirst, dummylast, Hassan) --> (Hassan, Mohamed, Sam) --> (Sam, Paguay, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Sam, Paguay
+Yes, the record is in the database! 
+The input triplet is: # Sharad Rahman
+The index of Sharad is 7
+HashTable[7]: (dummyfirst, dummylast, Gildian) --> (Gildian, Hossain, Muhtasim) --> (Muhtasim, Juan, Sharad) --> (Sharad, Rahman, Erik) --> (Erik, Rambaran, Ali) --> (Ali, Varadi, NULL) --> NULL
+op is an unrecognized operation 
+The input triplet is: ? Sharad Rahman
+The index of Sharad is 7
+HashTable[7]: (dummyfirst, dummylast, Gildian) --> (Gildian, Hossain, Muhtasim) --> (Muhtasim, Juan, Sharad) --> (Sharad, Rahman, Erik) --> (Erik, Rambaran, Ali) --> (Ali, Varadi, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Sharad, Rahman
+Yes, the record is in the database! 
+The input triplet is: ? Genesis Roman
+The index of Genesis is 9
+HashTable[9]: (dummyfirst, dummylast, Weipei) --> (Weipei, Dashi, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, Genesis) --> (Genesis, Roman, Kenneth) --> (Kenneth, Sharma, Sean) --> (Sean, Uliano, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Genesis, Roman
+Yes, the record is in the database! 
+The input triplet is: ? Kenny Wu
+The index of Kenny is 12
+HashTable[12]: (dummyfirst, dummylast, Marc) --> (Marc, Panzer, Kenny) --> (Kenny, Wu, NULL) --> NULL
+** Inside hashRetrieval. Performing hashRetrieval on Kenny, Wu
+Yes, the record is in the database! 

@@ -1,0 +1,13 @@
+HashTable[0]: (dummyfirst, dummylast, Roberto) --> (Roberto, Chen, NULL) --> NULL
+HashTable[1]: (dummyfirst, dummylast, Christopher) --> (Christopher, Rayamajhee, John) --> (John, Tavoli, NULL) --> NULL
+HashTable[2]: (dummyfirst, dummylast, NULL) --> NULL
+HashTable[3]: (dummyfirst, dummylast, Tenzin) --> (Tenzin, Ortiz, NULL) --> NULL
+HashTable[4]: (dummyfirst, dummylast, Christian) --> (Christian, Mcdonald, Minas) --> (Minas, Saad, NULL) --> NULL
+HashTable[5]: (dummyfirst, dummylast, Billal) --> (Billal, Arellano, Joshua) --> (Joshua, Bashir, Jhonatan) --> (Jhonatan, Landerer, Navil) --> (Navil, Long, Mengying) --> (Mengying, Yang, NULL) --> NULL
+HashTable[6]: (dummyfirst, dummylast, Ryan) --> (Ryan, Guerrero, Piyush) --> (Piyush, Guo, Juan) --> (Juan, Pho, Mohammed) --> (Mohammed, Shaharin, Juan) --> (Juan, Wangyal, NULL) --> NULL
+HashTable[7]: (dummyfirst, dummylast, Gildian) --> (Gildian, Hossain, Muhtasim) --> (Muhtasim, Juan, Sharad) --> (Sharad, Rahman, Erik) --> (Erik, Rambaran, Ali) --> (Ali, Varadi, NULL) --> NULL
+HashTable[8]: (dummyfirst, dummylast, Hassan) --> (Hassan, Mohamed, Sam) --> (Sam, Paguay, NULL) --> NULL
+HashTable[9]: (dummyfirst, dummylast, Weipei) --> (Weipei, Dashi, Rajesh) --> (Rajesh, Mandal, Jorge) --> (Jorge, Ng, Genesis) --> (Genesis, Roman, Kenneth) --> (Kenneth, Sharma, Sean) --> (Sean, Uliano, NULL) --> NULL
+HashTable[10]: (dummyfirst, dummylast, NULL) --> NULL
+HashTable[11]: (dummyfirst, dummylast, Stefan) --> (Stefan, Petersen, NULL) --> NULL
+HashTable[12]: (dummyfirst, dummylast, Marc) --> (Marc, Panzer, Kenny) --> (Kenny, Wu, NULL) --> NULL

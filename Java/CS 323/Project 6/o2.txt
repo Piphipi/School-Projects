@@ -1,0 +1,54 @@
+Source node = 1
+ 
+The path from 1 to 1: 1 <- 1 : cost = 0
+The path from 1 to 2: 2 <- 4 <- 1 : cost = 28
+The path from 1 to 3: 3 <- 1 : cost = 15
+The path from 1 to 4: 4 <- 1 : cost = 20
+The path from 1 to 5: 5 <- 3 <- 1 : cost = 43
+The path from 1 to 6: 6 <- 1 : cost = 40
+===============================
+Source node = 2
+ 
+The path from 2 to 1: 1 <- 4 <- 2 : cost = 25
+The path from 2 to 2: 2 <- 2 : cost = 0
+The path from 2 to 3: 3 <- 2 : cost = 15
+The path from 2 to 4: 4 <- 2 : cost = 10
+The path from 2 to 5: 5 <- 2 : cost = 30
+The path from 2 to 6: 6 <- 1 <- 4 <- 2 : cost = 65
+===============================
+Source node = 3
+ 
+The path from 3 to 1: 1 <- 4 <- 3 : cost = 30
+The path from 3 to 2: 2 <- 3 : cost = 20
+The path from 3 to 3: 3 <- 3 : cost = 0
+The path from 3 to 4: 4 <- 3 : cost = 15
+The path from 3 to 5: 5 <- 3 : cost = 28
+The path from 3 to 6: 6 <- 1 <- 4 <- 3 : cost = 70
+===============================
+Source node = 4
+ 
+The path from 4 to 1: 1 <- 4 : cost = 15
+The path from 4 to 2: 2 <- 4 : cost = 8
+The path from 4 to 3: 3 <- 2 <- 4 : cost = 23
+The path from 4 to 4: 4 <- 4 : cost = 0
+The path from 4 to 5: 5 <- 4 : cost = 26
+The path from 4 to 6: 6 <- 1 <- 4 : cost = 55
+===============================
+Source node = 5
+ 
+The path from 5 to 1: 1 <- 5 : cost = 5
+The path from 5 to 2: 2 <- 5 : cost = 10
+The path from 5 to 3: 3 <- 5 : cost = 8
+The path from 5 to 4: 4 <- 2 <- 5 : cost = 20
+The path from 5 to 5: 5 <- 5 : cost = 0
+The path from 5 to 6: 6 <- 1 <- 5 : cost = 45
+===============================
+Source node = 6
+ 
+The path from 6 to 1: 1 <- 6 : cost = 9999
+The path from 6 to 2: 2 <- 6 : cost = 9999
+The path from 6 to 3: 3 <- 6 : cost = 9999
+The path from 6 to 4: 4 <- 6 : cost = 9999
+The path from 6 to 5: 5 <- 6 : cost = 9999
+The path from 6 to 6: 6 <- 6 : cost = 0
+===============================
