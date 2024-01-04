@@ -1,0 +1,41 @@
+hLList[1] -> 4 -> 2 -> 3
+hLList[2] -> 1 -> 4 -> 3 -> 5
+hLList[3] -> 1 -> 2 -> 4
+hLList[4] -> 1 -> 2 -> 3 -> 5
+hLList[5] -> 2 -> 4
+Method 1 was used to color the graph
+Below is the result of the color assignments
+
+5
+1 1
+2 0
+3 0
+4 0
+5 1
+Method 1 was used to color the graph
+Below is the result of the color assignments
+
+5
+1 1
+2 2
+3 0
+4 0
+5 1
+Method 1 was used to color the graph
+Below is the result of the color assignments
+
+5
+1 1
+2 2
+3 3
+4 0
+5 1
+Method 1 was used to color the graph
+Below is the result of the color assignments
+
+5
+1 1
+2 2
+3 3
+4 4
+5 1

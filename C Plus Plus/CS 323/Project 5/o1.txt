@@ -1,0 +1,79 @@
+Enter constructHuffmanLList() method
+(dummy, 0, , NULL, NULL, d) -->
+(d, 50, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, d) -->
+(d, 50, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, h) -->
+(h, 50, , NULL, NULL, d) -->
+(d, 50, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, h) -->
+(h, 50, , NULL, NULL, d) -->
+(d, 50, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, h) -->
+(h, 50, , NULL, NULL, d) -->
+(d, 50, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, h) -->
+(h, 50, , NULL, NULL, d) -->
+(d, 50, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, h) -->
+(h, 50, , NULL, NULL, d) -->
+(d, 50, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, g) -->
+(g, 150, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+leaving constructHuffmanLList() method!
+Enter constructHuffmanBinTree () method! 
+(dummy, 0, , NULL, NULL, d) -->
+(d, 50, , NULL, NULL, oh) -->
+(oh, 100, , o, h, i) -->
+(i, 100, , NULL, NULL, g) -->
+(g, 150, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, doh) -->
+(doh, 150, , d, oh, g) -->
+(g, 150, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, g) -->
+(g, 150, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, idoh) -->
+(idoh, 250, , i, doh, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, idoh) -->
+(idoh, 250, , i, doh, ge) -->
+(ge, 350, , g, e, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, idohge) -->
+(idohge, 600, , idoh, ge, NULL) --> NULL
+(dummy, 0, , NULL, NULL, aidohge) -->
+(aidohge, 1000, , a, idohge, NULL) --> NULL
+Leaving constructHuffmanBinTree () method!
+In recursion of constructCodeTable(), code = 
+In recursion of constructCodeTable(), code = 0
+In recursion of constructCodeTable(), code = 1
+In recursion of constructCodeTable(), code = 10
+In recursion of constructCodeTable(), code = 100
+In recursion of constructCodeTable(), code = 101
+In recursion of constructCodeTable(), code = 1010
+In recursion of constructCodeTable(), code = 1011
+In recursion of constructCodeTable(), code = 10110
+In recursion of constructCodeTable(), code = 10111
+In recursion of constructCodeTable(), code = 11
+In recursion of constructCodeTable(), code = 110
+In recursion of constructCodeTable(), code = 111

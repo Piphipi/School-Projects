@@ -1,0 +1,54 @@
+hLList[1] -> 4 -> 2 -> 3
+hLList[2] -> 1 -> 4 -> 3 -> 5
+hLList[3] -> 1 -> 2 -> 4
+hLList[4] -> 1 -> 2 -> 3 -> 5
+hLList[5] -> 2 -> 4
+the new color is now 1 and the last used color is 1
+Method 2 was used to color the graph
+Below is the result of the color assignments
+
+5
+1 1
+2 0
+3 0
+4 0
+5 0
+the new color is now 2 and the last used color is 2
+Method 2 was used to color the graph
+Below is the result of the color assignments
+
+5
+1 1
+2 2
+3 0
+4 0
+5 0
+the new color is now 3 and the last used color is 3
+Method 2 was used to color the graph
+Below is the result of the color assignments
+
+5
+1 1
+2 2
+3 3
+4 0
+5 0
+the new color is now 4 and the last used color is 4
+Method 2 was used to color the graph
+Below is the result of the color assignments
+
+5
+1 1
+2 2
+3 3
+4 4
+5 0
+Method 2 was used to color the graph
+Below is the result of the color assignments
+
+5
+1 1
+2 2
+3 3
+4 4
+5 1

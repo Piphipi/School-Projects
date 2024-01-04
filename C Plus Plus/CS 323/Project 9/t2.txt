@@ -1,0 +1,360 @@
+hLList[1] --> (2, 41) --> (3, 32)
+hLList[2] --> (1, 41) --> (3, 22) --> (5, 30)
+hLList[3] --> (1, 32) --> (2, 22) --> (4, 51)
+hLList[4] --> (3, 51) --> (5, 14)
+hLList[5] --> (2, 30) --> (4, 14)
+Open list after insert startNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL)
+ --> (1, 5, 0, 155, 155, NULL)
+Printing Visited Ary
+visitedAry[0] = 0
+visitedAry[1] = 0
+visitedAry[2] = 0
+visitedAry[3] = 0
+visitedAry[4] = 0
+visitedAry[5] = 0
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (2, 4, 41, 124, 165, 1)
+ --> (3, 4, 32, 124, 156, 1)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 5, 0, 155, 155, NULL) --> (3, 4, 32, 124, 156, 1)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (2, 4, 41, 124, 165, 1) --> (4, 3, 83, 93, 176, 3)
+ --> (2, 3, 54, 93, 147, 3)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 5, 0, 155, 155, NULL) --> (2, 3, 54, 93, 147, 3) --> (3, 4, 32, 124, 156, 1)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (2, 4, 41, 124, 165, 1) --> (4, 3, 83, 93, 176, 3)
+ --> (5, 2, 84, 62, 146, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 5, 0, 155, 155, NULL) --> (2, 3, 54, 93, 147, 3) --> (3, 4, 32, 124, 156, 1) --> (5, 2, 84, 62, 146, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (2, 4, 41, 124, 165, 1) --> (4, 3, 83, 93, 176, 3)
+ --> (4, 1, 98, 31, 129, 5)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 5, 0, 155, 155, NULL) --> (2, 3, 54, 93, 147, 3) --> (3, 4, 32, 124, 156, 1) --> (4, 1, 98, 31, 129, 5) --> (5, 2, 84, 62, 146, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 3, 83, 93, 176, 3)
+ --> (2, 4, 41, 124, 165, 1)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 5, 0, 155, 155, NULL) --> (2, 4, 41, 124, 165, 1) --> (2, 3, 54, 93, 147, 3) --> (3, 4, 32, 124, 156, 1) --> (4, 1, 98, 31, 129, 5) --> (5, 2, 84, 62, 146, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (5, 3, 71, 93, 164, 2) --> (4, 3, 83, 93, 176, 3)
+ --> (3, 3, 63, 93, 156, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 5, 0, 155, 155, NULL) --> (2, 4, 41, 124, 165, 1) --> (2, 3, 54, 93, 147, 3) --> (3, 3, 63, 93, 156, 2) --> (3, 4, 32, 124, 156, 1) --> (4, 1, 98, 31, 129, 5) --> (5, 2, 84, 62, 146, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 2, 114, 62, 176, 3) --> (4, 3, 83, 93, 176, 3)
+ --> (5, 3, 71, 93, 164, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 5, 0, 155, 155, NULL) --> (2, 4, 41, 124, 165, 1) --> (2, 3, 54, 93, 147, 3) --> (3, 3, 63, 93, 156, 2) --> (3, 4, 32, 124, 156, 1) --> (4, 1, 98, 31, 129, 5) --> (5, 3, 71, 93, 164, 2) --> (5, 2, 84, 62, 146, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 2, 114, 62, 176, 3) --> (4, 3, 83, 93, 176, 3)
+ --> (4, 2, 85, 62, 147, 5)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 5, 0, 155, 155, NULL) --> (2, 4, 41, 124, 165, 1) --> (2, 3, 54, 93, 147, 3) --> (3, 3, 63, 93, 156, 2) --> (3, 4, 32, 124, 156, 1) --> (4, 2, 85, 62, 147, 5) --> (4, 1, 98, 31, 129, 5) --> (5, 3, 71, 93, 164, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 2, 114, 62, 176, 3) --> (4, 3, 83, 93, 176, 3)
+ --> (3, 1, 136, 31, 167, 4)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 5, 0, 155, 155, NULL) --> (2, 4, 41, 124, 165, 1) --> (2, 3, 54, 93, 147, 3) --> (3, 1, 136, 31, 167, 4) --> (3, 3, 63, 93, 156, 2) --> (3, 4, 32, 124, 156, 1) --> (4, 2, 85, 62, 147, 5) --> (4, 1, 98, 31, 129, 5)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 2, 114, 62, 176, 3) --> (4, 3, 83, 93, 176, 3)
+ --> (1, 0, 168, 0, 168, 3)
+Printing Visited Ary
+visitedAry[0] = 0
+visitedAry[1] = 1
+visitedAry[2] = 1
+visitedAry[3] = 1
+visitedAry[4] = 1
+visitedAry[5] = 1
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 0, 168, 0, 168, 3) --> (1, 5, 0, 155, 155, NULL) --> (2, 4, 41, 124, 165, 1) --> (2, 3, 54, 93, 147, 3) --> (3, 1, 136, 31, 167, 4) --> (3, 3, 63, 93, 156, 2) --> (3, 4, 32, 124, 156, 1) --> (4, 2, 85, 62, 147, 5)
+Open list after insert startNode
+(9999, 0, 0, 0, 0, NULL) --> (2, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL)
+ --> (2, 5, 0, 155, 155, NULL)
+Printing Visited Ary
+visitedAry[0] = 0
+visitedAry[1] = 0
+visitedAry[2] = 0
+visitedAry[3] = 0
+visitedAry[4] = 0
+visitedAry[5] = 0
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (2, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (5, 4, 30, 124, 154, 2) --> (1, 4, 41, 124, 165, 2)
+ --> (3, 4, 22, 124, 146, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (2, 5, 0, 155, 155, NULL) --> (3, 4, 22, 124, 146, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (5, 4, 30, 124, 154, 2) --> (1, 4, 41, 124, 165, 2) --> (4, 3, 73, 93, 166, 3)
+ --> (1, 3, 54, 93, 147, 3)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 54, 93, 147, 3) --> (2, 5, 0, 155, 155, NULL) --> (3, 4, 22, 124, 146, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 41, 124, 165, 2) --> (4, 3, 73, 93, 166, 3)
+ --> (5, 4, 30, 124, 154, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 54, 93, 147, 3) --> (2, 5, 0, 155, 155, NULL) --> (3, 4, 22, 124, 146, 2) --> (5, 4, 30, 124, 154, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 41, 124, 165, 2) --> (4, 3, 73, 93, 166, 3)
+ --> (4, 3, 44, 93, 137, 5)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 54, 93, 147, 3) --> (2, 5, 0, 155, 155, NULL) --> (3, 4, 22, 124, 146, 2) --> (4, 3, 44, 93, 137, 5) --> (5, 4, 30, 124, 154, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 41, 124, 165, 2) --> (4, 3, 73, 93, 166, 3)
+ --> (3, 2, 95, 62, 157, 4)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 54, 93, 147, 3) --> (2, 5, 0, 155, 155, NULL) --> (3, 2, 95, 62, 157, 4) --> (3, 4, 22, 124, 146, 2) --> (4, 3, 44, 93, 137, 5) --> (5, 4, 30, 124, 154, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 41, 124, 165, 2) --> (4, 3, 73, 93, 166, 3)
+ --> (1, 1, 127, 31, 158, 3)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 1, 127, 31, 158, 3) --> (1, 3, 54, 93, 147, 3) --> (2, 5, 0, 155, 155, NULL) --> (3, 2, 95, 62, 157, 4) --> (3, 4, 22, 124, 146, 2) --> (4, 3, 44, 93, 137, 5) --> (5, 4, 30, 124, 154, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 3, 73, 93, 166, 3) --> (2, 0, 168, 0, 168, 1)
+ --> (1, 4, 41, 124, 165, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 41, 124, 165, 2) --> (1, 1, 127, 31, 158, 3) --> (1, 3, 54, 93, 147, 3) --> (2, 5, 0, 155, 155, NULL) --> (3, 2, 95, 62, 157, 4) --> (3, 4, 22, 124, 146, 2) --> (4, 3, 44, 93, 137, 5) --> (5, 4, 30, 124, 154, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 3, 73, 93, 166, 3) --> (2, 0, 168, 0, 168, 1)
+ --> (3, 3, 73, 93, 166, 1)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 41, 124, 165, 2) --> (1, 1, 127, 31, 158, 3) --> (1, 3, 54, 93, 147, 3) --> (2, 5, 0, 155, 155, NULL) --> (3, 3, 73, 93, 166, 1) --> (3, 2, 95, 62, 157, 4) --> (3, 4, 22, 124, 146, 2) --> (4, 3, 44, 93, 137, 5)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (2, 0, 168, 0, 168, 1) --> (4, 2, 124, 62, 186, 3)
+ --> (4, 3, 73, 93, 166, 3)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 41, 124, 165, 2) --> (1, 1, 127, 31, 158, 3) --> (1, 3, 54, 93, 147, 3) --> (2, 5, 0, 155, 155, NULL) --> (3, 3, 73, 93, 166, 1) --> (3, 2, 95, 62, 157, 4) --> (3, 4, 22, 124, 146, 2) --> (4, 3, 73, 93, 166, 3)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (2, 0, 168, 0, 168, 1) --> (4, 2, 124, 62, 186, 3)
+ --> (5, 2, 87, 62, 149, 4)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 41, 124, 165, 2) --> (1, 1, 127, 31, 158, 3) --> (1, 3, 54, 93, 147, 3) --> (2, 5, 0, 155, 155, NULL) --> (3, 3, 73, 93, 166, 1) --> (3, 2, 95, 62, 157, 4) --> (3, 4, 22, 124, 146, 2) --> (4, 3, 73, 93, 166, 3)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 2, 124, 62, 186, 3)
+ --> (2, 0, 168, 0, 168, 1)
+Printing Visited Ary
+visitedAry[0] = 0
+visitedAry[1] = 1
+visitedAry[2] = 1
+visitedAry[3] = 1
+visitedAry[4] = 1
+visitedAry[5] = 1
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 41, 124, 165, 2) --> (1, 1, 127, 31, 158, 3) --> (1, 3, 54, 93, 147, 3) --> (2, 0, 168, 0, 168, 1) --> (2, 5, 0, 155, 155, NULL) --> (3, 3, 73, 93, 166, 1) --> (3, 2, 95, 62, 157, 4) --> (3, 4, 22, 124, 146, 2)
+Open list after insert startNode
+(9999, 0, 0, 0, 0, NULL) --> (3, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL)
+ --> (3, 5, 0, 155, 155, NULL)
+Printing Visited Ary
+visitedAry[0] = 0
+visitedAry[1] = 0
+visitedAry[2] = 0
+visitedAry[3] = 0
+visitedAry[4] = 0
+visitedAry[5] = 0
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (3, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 32, 124, 156, 3) --> (4, 4, 51, 124, 175, 3)
+ --> (2, 4, 22, 124, 146, 3)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (2, 4, 22, 124, 146, 3) --> (3, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 63, 93, 156, 2) --> (1, 4, 32, 124, 156, 3) --> (4, 4, 51, 124, 175, 3)
+ --> (5, 3, 52, 93, 145, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (2, 4, 22, 124, 146, 3) --> (3, 5, 0, 155, 155, NULL) --> (5, 3, 52, 93, 145, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 63, 93, 156, 2) --> (1, 4, 32, 124, 156, 3) --> (4, 4, 51, 124, 175, 3)
+ --> (4, 2, 66, 62, 128, 5)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (2, 4, 22, 124, 146, 3) --> (3, 5, 0, 155, 155, NULL) --> (4, 2, 66, 62, 128, 5) --> (5, 3, 52, 93, 145, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 32, 124, 156, 3) --> (4, 4, 51, 124, 175, 3)
+ --> (1, 3, 63, 93, 156, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 63, 93, 156, 2) --> (2, 4, 22, 124, 146, 3) --> (3, 5, 0, 155, 155, NULL) --> (4, 2, 66, 62, 128, 5) --> (5, 3, 52, 93, 145, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 4, 51, 124, 175, 3)
+ --> (1, 4, 32, 124, 156, 3)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 32, 124, 156, 3) --> (1, 3, 63, 93, 156, 2) --> (2, 4, 22, 124, 146, 3) --> (3, 5, 0, 155, 155, NULL) --> (4, 2, 66, 62, 128, 5) --> (5, 3, 52, 93, 145, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 4, 51, 124, 175, 3)
+ --> (2, 3, 73, 93, 166, 1)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 32, 124, 156, 3) --> (1, 3, 63, 93, 156, 2) --> (2, 3, 73, 93, 166, 1) --> (2, 4, 22, 124, 146, 3) --> (3, 5, 0, 155, 155, NULL) --> (4, 2, 66, 62, 128, 5) --> (5, 3, 52, 93, 145, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 4, 51, 124, 175, 3)
+ --> (5, 2, 103, 62, 165, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 32, 124, 156, 3) --> (1, 3, 63, 93, 156, 2) --> (2, 3, 73, 93, 166, 1) --> (2, 4, 22, 124, 146, 3) --> (3, 5, 0, 155, 155, NULL) --> (4, 2, 66, 62, 128, 5) --> (5, 2, 103, 62, 165, 2) --> (5, 3, 52, 93, 145, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 4, 51, 124, 175, 3)
+ --> (4, 1, 117, 31, 148, 5)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 32, 124, 156, 3) --> (1, 3, 63, 93, 156, 2) --> (2, 3, 73, 93, 166, 1) --> (2, 4, 22, 124, 146, 3) --> (3, 5, 0, 155, 155, NULL) --> (4, 1, 117, 31, 148, 5) --> (4, 2, 66, 62, 128, 5) --> (5, 2, 103, 62, 165, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 4, 51, 124, 175, 3)
+ --> (3, 0, 168, 0, 168, 4)
+Printing Visited Ary
+visitedAry[0] = 0
+visitedAry[1] = 1
+visitedAry[2] = 1
+visitedAry[3] = 1
+visitedAry[4] = 1
+visitedAry[5] = 1
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 4, 32, 124, 156, 3) --> (1, 3, 63, 93, 156, 2) --> (2, 3, 73, 93, 166, 1) --> (2, 4, 22, 124, 146, 3) --> (3, 0, 168, 0, 168, 4) --> (3, 5, 0, 155, 155, NULL) --> (4, 1, 117, 31, 148, 5) --> (4, 2, 66, 62, 128, 5)
+Open list after insert startNode
+(9999, 0, 0, 0, 0, NULL) --> (4, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL)
+ --> (4, 5, 0, 155, 155, NULL)
+Printing Visited Ary
+visitedAry[0] = 0
+visitedAry[1] = 0
+visitedAry[2] = 0
+visitedAry[3] = 0
+visitedAry[4] = 0
+visitedAry[5] = 0
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (4, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (3, 4, 51, 124, 175, 4)
+ --> (5, 4, 14, 124, 138, 4)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (4, 5, 0, 155, 155, NULL) --> (5, 4, 14, 124, 138, 4)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (3, 4, 51, 124, 175, 4)
+ --> (2, 3, 44, 93, 137, 5)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (2, 3, 44, 93, 137, 5) --> (4, 5, 0, 155, 155, NULL) --> (5, 4, 14, 124, 138, 4)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 2, 85, 62, 147, 2) --> (3, 4, 51, 124, 175, 4)
+ --> (3, 2, 66, 62, 128, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (2, 3, 44, 93, 137, 5) --> (3, 2, 66, 62, 128, 2) --> (4, 5, 0, 155, 155, NULL) --> (5, 4, 14, 124, 138, 4)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 2, 85, 62, 147, 2) --> (3, 4, 51, 124, 175, 4)
+ --> (1, 1, 98, 31, 129, 3)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 1, 98, 31, 129, 3) --> (2, 3, 44, 93, 137, 5) --> (3, 2, 66, 62, 128, 2) --> (4, 5, 0, 155, 155, NULL) --> (5, 4, 14, 124, 138, 4)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (3, 4, 51, 124, 175, 4)
+ --> (1, 2, 85, 62, 147, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 2, 85, 62, 147, 2) --> (1, 1, 98, 31, 129, 3) --> (2, 3, 44, 93, 137, 5) --> (3, 2, 66, 62, 128, 2) --> (4, 5, 0, 155, 155, NULL) --> (5, 4, 14, 124, 138, 4)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (3, 4, 51, 124, 175, 4)
+ --> (3, 1, 117, 31, 148, 1)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 2, 85, 62, 147, 2) --> (1, 1, 98, 31, 129, 3) --> (2, 3, 44, 93, 137, 5) --> (3, 1, 117, 31, 148, 1) --> (3, 2, 66, 62, 128, 2) --> (4, 5, 0, 155, 155, NULL) --> (5, 4, 14, 124, 138, 4)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (3, 4, 51, 124, 175, 4)
+ --> (4, 0, 168, 0, 168, 3)
+Printing Visited Ary
+visitedAry[0] = 0
+visitedAry[1] = 1
+visitedAry[2] = 1
+visitedAry[3] = 1
+visitedAry[4] = 1
+visitedAry[5] = 1
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 2, 85, 62, 147, 2) --> (1, 1, 98, 31, 129, 3) --> (2, 3, 44, 93, 137, 5) --> (3, 1, 117, 31, 148, 1) --> (3, 2, 66, 62, 128, 2) --> (4, 0, 168, 0, 168, 3) --> (4, 5, 0, 155, 155, NULL) --> (5, 4, 14, 124, 138, 4)
+Open list after insert startNode
+(9999, 0, 0, 0, 0, NULL) --> (5, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL)
+ --> (5, 5, 0, 155, 155, NULL)
+Printing Visited Ary
+visitedAry[0] = 0
+visitedAry[1] = 0
+visitedAry[2] = 0
+visitedAry[3] = 0
+visitedAry[4] = 0
+visitedAry[5] = 0
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (5, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (2, 4, 30, 124, 154, 5)
+ --> (4, 4, 14, 124, 138, 5)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (4, 4, 14, 124, 138, 5) --> (5, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (3, 3, 65, 93, 158, 4)
+ --> (2, 4, 30, 124, 154, 5)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (2, 4, 30, 124, 154, 5) --> (4, 4, 14, 124, 138, 5) --> (5, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (3, 3, 65, 93, 158, 4) --> (1, 3, 71, 93, 164, 2)
+ --> (3, 3, 52, 93, 145, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (2, 4, 30, 124, 154, 5) --> (3, 3, 52, 93, 145, 2) --> (4, 4, 14, 124, 138, 5) --> (5, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (3, 3, 65, 93, 158, 4) --> (1, 3, 71, 93, 164, 2) --> (4, 2, 103, 62, 165, 3)
+ --> (1, 2, 84, 62, 146, 3)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 2, 84, 62, 146, 3) --> (2, 4, 30, 124, 154, 5) --> (3, 3, 52, 93, 145, 2) --> (4, 4, 14, 124, 138, 5) --> (5, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 71, 93, 164, 2) --> (4, 2, 103, 62, 165, 3)
+ --> (3, 3, 65, 93, 158, 4)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 2, 84, 62, 146, 3) --> (2, 4, 30, 124, 154, 5) --> (3, 3, 65, 93, 158, 4) --> (3, 3, 52, 93, 145, 2) --> (4, 4, 14, 124, 138, 5) --> (5, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 2, 97, 62, 159, 3) --> (1, 3, 71, 93, 164, 2) --> (4, 2, 103, 62, 165, 3)
+ --> (2, 2, 87, 62, 149, 3)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 2, 84, 62, 146, 3) --> (2, 2, 87, 62, 149, 3) --> (2, 4, 30, 124, 154, 5) --> (3, 3, 65, 93, 158, 4) --> (3, 3, 52, 93, 145, 2) --> (4, 4, 14, 124, 138, 5) --> (5, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 2, 97, 62, 159, 3) --> (1, 3, 71, 93, 164, 2) --> (4, 2, 103, 62, 165, 3)
+ --> (1, 1, 128, 31, 159, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 1, 128, 31, 159, 2) --> (1, 2, 84, 62, 146, 3) --> (2, 2, 87, 62, 149, 3) --> (2, 4, 30, 124, 154, 5) --> (3, 3, 65, 93, 158, 4) --> (3, 3, 52, 93, 145, 2) --> (4, 4, 14, 124, 138, 5) --> (5, 5, 0, 155, 155, NULL)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 71, 93, 164, 2) --> (4, 2, 103, 62, 165, 3)
+ --> (1, 2, 97, 62, 159, 3)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 2, 97, 62, 159, 3) --> (1, 1, 128, 31, 159, 2) --> (1, 2, 84, 62, 146, 3) --> (2, 2, 87, 62, 149, 3) --> (2, 4, 30, 124, 154, 5) --> (3, 3, 65, 93, 158, 4) --> (3, 3, 52, 93, 145, 2) --> (4, 4, 14, 124, 138, 5)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 2, 103, 62, 165, 3) --> (2, 1, 138, 31, 169, 1)
+ --> (1, 3, 71, 93, 164, 2)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 71, 93, 164, 2) --> (1, 2, 97, 62, 159, 3) --> (1, 1, 128, 31, 159, 2) --> (1, 2, 84, 62, 146, 3) --> (2, 2, 87, 62, 149, 3) --> (2, 4, 30, 124, 154, 5) --> (3, 3, 65, 93, 158, 4) --> (3, 3, 52, 93, 145, 2)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 2, 103, 62, 165, 3) --> (2, 1, 138, 31, 169, 1)
+ --> (3, 2, 103, 62, 165, 1)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 71, 93, 164, 2) --> (1, 2, 97, 62, 159, 3) --> (1, 1, 128, 31, 159, 2) --> (1, 2, 84, 62, 146, 3) --> (2, 2, 87, 62, 149, 3) --> (2, 4, 30, 124, 154, 5) --> (3, 2, 103, 62, 165, 1) --> (3, 3, 65, 93, 158, 4)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (2, 1, 138, 31, 169, 1) --> (4, 1, 154, 31, 185, 3)
+ --> (4, 2, 103, 62, 165, 3)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 71, 93, 164, 2) --> (1, 2, 97, 62, 159, 3) --> (1, 1, 128, 31, 159, 2) --> (1, 2, 84, 62, 146, 3) --> (2, 2, 87, 62, 149, 3) --> (2, 4, 30, 124, 154, 5) --> (3, 2, 103, 62, 165, 1) --> (3, 3, 65, 93, 158, 4)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 1, 154, 31, 185, 3)
+ --> (2, 1, 138, 31, 169, 1)
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 71, 93, 164, 2) --> (1, 2, 97, 62, 159, 3) --> (1, 1, 128, 31, 159, 2) --> (1, 2, 84, 62, 146, 3) --> (2, 1, 138, 31, 169, 1) --> (2, 2, 87, 62, 149, 3) --> (2, 4, 30, 124, 154, 5) --> (3, 2, 103, 62, 165, 1)
+Open List after remove its front node
+(9999, 0, 0, 0, 0, NULL) --> (4, 1, 154, 31, 185, 3)
+ --> (5, 0, 168, 0, 168, 2)
+Printing Visited Ary
+visitedAry[0] = 0
+visitedAry[1] = 1
+visitedAry[2] = 1
+visitedAry[3] = 1
+visitedAry[4] = 1
+visitedAry[5] = 1
+Close list after insert currentNode
+(9999, 0, 0, 0, 0, NULL) --> (1, 3, 71, 93, 164, 2) --> (1, 2, 97, 62, 159, 3) --> (1, 1, 128, 31, 159, 2) --> (1, 2, 84, 62, 146, 3) --> (2, 1, 138, 31, 169, 1) --> (2, 2, 87, 62, 149, 3) --> (2, 4, 30, 124, 154, 5) --> (3, 2, 103, 62, 165, 1)

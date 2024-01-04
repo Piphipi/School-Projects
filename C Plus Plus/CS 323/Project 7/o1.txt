@@ -1,0 +1,40 @@
+ProcUsed: 0  currentTime: 0
+
+Time:	| 0 	
+
+ProcUsed: 2  currentTime: 0
+
+Time:	| 0 	
+Proc: 1	| 1	
+Proc: 2	| 5	
+
+ProcUsed: 2  currentTime: 1
+
+Time:	| 0 	| 1 	
+Proc: 1	| 1	| 2	
+Proc: 2	| 5	| 3	
+
+ProcUsed: 2  currentTime: 2
+
+Time:	| 0 	| 1 	| 2 	
+Proc: 1	| 1	| 2	| 4	
+Proc: 2	| 5	| 3	| 7	
+
+ProcUsed: 2  currentTime: 3
+
+Time:	| 0 	| 1 	| 2 	| 3 	
+Proc: 1	| 1	| 2	| 4	| 6	
+Proc: 2	| 5	| 3	| 7	| - 	
+
+ProcUsed: 2  currentTime: 4
+
+Time:	| 0 	| 1 	| 2 	| 3 	| 4 	
+Proc: 1	| 1	| 2	| 4	| 6	| 8	
+Proc: 2	| 5	| 3	| 7	| - 	| - 	
+
+ProcUsed: 2  currentTime: 5
+
+Time:	| 0 	| 1 	| 2 	| 3 	| 4 	| 5 	
+Proc: 1	| 1	| 2	| 4	| 6	| 8	| - 	
+Proc: 2	| 5	| 3	| 7	| - 	| - 	| - 	
+

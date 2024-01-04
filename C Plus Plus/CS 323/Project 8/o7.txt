@@ -1,0 +1,12 @@
+Method 2 was used to color the graph
+Below is the result of the color assignments
+
+8
+1 1
+2 2
+3 3
+4 4
+5 2
+6 1
+7 5
+8 2

@@ -1,0 +1,223 @@
+Enter constructHuffmanLList() method
+(dummy, 0, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, h) -->
+(h, 10, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, h) -->
+(h, 10, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, g) -->
+(g, 10, , NULL, NULL, h) -->
+(h, 10, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, g) -->
+(g, 10, , NULL, NULL, h) -->
+(h, 10, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, g) -->
+(g, 10, , NULL, NULL, h) -->
+(h, 10, , NULL, NULL, s) -->
+(s, 20, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, g) -->
+(g, 10, , NULL, NULL, h) -->
+(h, 10, , NULL, NULL, s) -->
+(s, 20, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, t) -->
+(t, 50, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, c) -->
+(c, 10, , NULL, NULL, g) -->
+(g, 10, , NULL, NULL, h) -->
+(h, 10, , NULL, NULL, s) -->
+(s, 20, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, t) -->
+(t, 50, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, l) -->
+(l, 10, , NULL, NULL, c) -->
+(c, 10, , NULL, NULL, g) -->
+(g, 10, , NULL, NULL, h) -->
+(h, 10, , NULL, NULL, s) -->
+(s, 20, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, t) -->
+(t, 50, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, v) -->
+(v, 10, , NULL, NULL, l) -->
+(l, 10, , NULL, NULL, c) -->
+(c, 10, , NULL, NULL, g) -->
+(g, 10, , NULL, NULL, h) -->
+(h, 10, , NULL, NULL, s) -->
+(s, 20, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, t) -->
+(t, 50, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, v) -->
+(v, 10, , NULL, NULL, l) -->
+(l, 10, , NULL, NULL, c) -->
+(c, 10, , NULL, NULL, g) -->
+(g, 10, , NULL, NULL, h) -->
+(h, 10, , NULL, NULL, s) -->
+(s, 20, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, t) -->
+(t, 50, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, m) -->
+(m, 100, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+leaving constructHuffmanLList() method!
+Enter constructHuffmanBinTree () method! 
+(dummy, 0, , NULL, NULL, c) -->
+(c, 10, , NULL, NULL, g) -->
+(g, 10, , NULL, NULL, h) -->
+(h, 10, , NULL, NULL, vl) -->
+(vl, 20, , v, l, s) -->
+(s, 20, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, t) -->
+(t, 50, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, m) -->
+(m, 100, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, h) -->
+(h, 10, , NULL, NULL, cg) -->
+(cg, 20, , c, g, vl) -->
+(vl, 20, , v, l, s) -->
+(s, 20, , NULL, NULL, d) -->
+(d, 30, , NULL, NULL, t) -->
+(t, 50, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, m) -->
+(m, 100, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, vl) -->
+(vl, 20, , v, l, s) -->
+(s, 20, , NULL, NULL, hcg) -->
+(hcg, 30, , h, cg, d) -->
+(d, 30, , NULL, NULL, t) -->
+(t, 50, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, m) -->
+(m, 100, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, hcg) -->
+(hcg, 30, , h, cg, d) -->
+(d, 30, , NULL, NULL, vls) -->
+(vls, 40, , vl, s, t) -->
+(t, 50, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, m) -->
+(m, 100, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, vls) -->
+(vls, 40, , vl, s, t) -->
+(t, 50, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, hcgd) -->
+(hcgd, 60, , hcg, d, m) -->
+(m, 100, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, o) -->
+(o, 50, , NULL, NULL, hcgd) -->
+(hcgd, 60, , hcg, d, vlst) -->
+(vlst, 90, , vls, t, m) -->
+(m, 100, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, vlst) -->
+(vlst, 90, , vls, t, m) -->
+(m, 100, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, ohcgd) -->
+(ohcgd, 110, , o, hcgd, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, i) -->
+(i, 100, , NULL, NULL, ohcgd) -->
+(ohcgd, 110, , o, hcgd, vlstm) -->
+(vlstm, 190, , vlst, m, e) -->
+(e, 200, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, vlstm) -->
+(vlstm, 190, , vlst, m, e) -->
+(e, 200, , NULL, NULL, iohcgd) -->
+(iohcgd, 210, , i, ohcgd, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, iohcgd) -->
+(iohcgd, 210, , i, ohcgd, vlstme) -->
+(vlstme, 390, , vlstm, e, a) -->
+(a, 400, , NULL, NULL, NULL) --> NULL
+(dummy, 0, , NULL, NULL, a) -->
+(a, 400, , NULL, NULL, iohcgdvlstme) -->
+(iohcgdvlstme, 600, , iohcgd, vlstme, NULL) --> NULL
+(dummy, 0, , NULL, NULL, aiohcgdvlstme) -->
+(aiohcgdvlstme, 1000, , a, iohcgdvlstme, NULL) --> NULL
+Leaving constructHuffmanBinTree () method!
+In recursion of constructCodeTable(), code = 
+In recursion of constructCodeTable(), code = 0
+In recursion of constructCodeTable(), code = 1
+In recursion of constructCodeTable(), code = 10
+In recursion of constructCodeTable(), code = 100
+In recursion of constructCodeTable(), code = 101
+In recursion of constructCodeTable(), code = 1010
+In recursion of constructCodeTable(), code = 1011
+In recursion of constructCodeTable(), code = 10110
+In recursion of constructCodeTable(), code = 101100
+In recursion of constructCodeTable(), code = 101101
+In recursion of constructCodeTable(), code = 1011010
+In recursion of constructCodeTable(), code = 1011011
+In recursion of constructCodeTable(), code = 10111
+In recursion of constructCodeTable(), code = 11
+In recursion of constructCodeTable(), code = 110
+In recursion of constructCodeTable(), code = 1100
+In recursion of constructCodeTable(), code = 11000
+In recursion of constructCodeTable(), code = 110000
+In recursion of constructCodeTable(), code = 1100000
+In recursion of constructCodeTable(), code = 1100001
+In recursion of constructCodeTable(), code = 110001
+In recursion of constructCodeTable(), code = 11001
+In recursion of constructCodeTable(), code = 1101
+In recursion of constructCodeTable(), code = 111

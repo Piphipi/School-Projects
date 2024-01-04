@@ -1,0 +1,61 @@
+ProcUsed: 0  currentTime: 0
+
+Time:	| 0 	
+
+ProcUsed: 3  currentTime: 0
+
+Time:	| 0 	
+Proc: 1	| 1	
+Proc: 2	| 10	
+Proc: 3	| 11	
+
+ProcUsed: 3  currentTime: 1
+
+Time:	| 0 	| 1 	
+Proc: 1	| 1	| 1	
+Proc: 2	| 10	| 12	
+Proc: 3	| 11	| 11	
+
+ProcUsed: 3  currentTime: 2
+
+Time:	| 0 	| 1 	| 2 	
+Proc: 1	| 1	| 1	| 2	
+Proc: 2	| 10	| 12	| 3	
+Proc: 3	| 11	| 11	| 4	
+
+ProcUsed: 3  currentTime: 3
+
+Time:	| 0 	| 1 	| 2 	| 3 	
+Proc: 1	| 1	| 1	| 2	| 2	
+Proc: 2	| 10	| 12	| 3	| 13	
+Proc: 3	| 11	| 11	| 4	| 4	
+
+ProcUsed: 3  currentTime: 4
+
+Time:	| 0 	| 1 	| 2 	| 3 	| 4 	
+Proc: 1	| 1	| 1	| 2	| 2	| 2	
+Proc: 2	| 10	| 12	| 3	| 13	| 13	
+Proc: 3	| 11	| 11	| 4	| 4	| - 	
+
+ProcUsed: 3  currentTime: 5
+
+Time:	| 0 	| 1 	| 2 	| 3 	| 4 	| 5 	
+Proc: 1	| 1	| 1	| 2	| 2	| 2	| - 	
+Proc: 2	| 10	| 12	| 3	| 13	| 13	| 13	
+Proc: 3	| 11	| 11	| 4	| 4	| - 	| - 	
+
+ProcUsed: 3  currentTime: 6
+
+Time:	| 0 	| 1 	| 2 	| 3 	| 4 	| 5 	| 6 	
+Proc: 1	| 1	| 1	| 2	| 2	| 2	| - 	| - 	
+Proc: 2	| 10	| 12	| 3	| 13	| 13	| 13	| 13	
+Proc: 3	| 11	| 11	| 4	| 4	| - 	| - 	| - 	
+
+ProcUsed: 3  currentTime: 7
+
+Time:	| 0 	| 1 	| 2 	| 3 	| 4 	| 5 	| 6 	| 7 	
+Proc: 1	| 1	| 1	| 2	| 2	| 2	| - 	| - 	| - 	
+Proc: 2	| 10	| 12	| 3	| 13	| 13	| 13	| 13	| - 	
+Proc: 3	| 11	| 11	| 4	| 4	| - 	| - 	| - 	| - 	
+
+There is a cycle in the graph!!!
