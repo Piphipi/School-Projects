@@ -1,0 +1,654 @@
+Entering deepestConcavity method
+leaving deepestConcavity method, maxGap is 132 and thr is 34;
+Entering biGaussian method
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 5 and result is: 2.92308
+Entering computeVar method
+Leaving computeVar method returning result: 0.840237
+leaving fitGauss method, sum is 472.906
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 34.4991
+Entering computeVar method
+Leaving computeVar method returning result: 97.8419
+leaving fitGauss method, sum is 1679.45
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 5, 472.906, 1679.45, 2152.36, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 5 and result is: 3.5
+Entering computeVar method
+Leaving computeVar method returning result: 1.47222
+leaving fitGauss method, sum is 622.069
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 34.5354
+Entering computeVar method
+Leaving computeVar method returning result: 96.8922
+leaving fitGauss method, sum is 1663.22
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 6, 622.069, 1663.22, 2285.29, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 7 and result is: 4.2
+Entering computeVar method
+Leaving computeVar method returning result: 2.32
+leaving fitGauss method, sum is 776.181
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 34.5845
+Entering computeVar method
+Leaving computeVar method returning result: 95.6544
+leaving fitGauss method, sum is 1642.87
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 7, 776.181, 1642.87, 2419.05, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 7 and result is: 4.58621
+Entering computeVar method
+Leaving computeVar method returning result: 2.93222
+leaving fitGauss method, sum is 872.981
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 34.6117
+Entering computeVar method
+Leaving computeVar method returning result: 94.9984
+leaving fitGauss method, sum is 1634.93
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 8, 872.981, 1634.93, 2507.92, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 7 and result is: 5.17143
+Entering computeVar method
+Leaving computeVar method returning result: 4.0849
+leaving fitGauss method, sum is 1020.15
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 34.651
+Entering computeVar method
+Leaving computeVar method returning result: 94.0896
+leaving fitGauss method, sum is 1622.85
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 9, 1020.15, 1622.85, 2643.01, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 10 and result is: 6.02222
+Entering computeVar method
+Leaving computeVar method returning result: 5.71062
+leaving fitGauss method, sum is 1183.18
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 34.7145
+Entering computeVar method
+Leaving computeVar method returning result: 92.6915
+leaving fitGauss method, sum is 1601.58
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 10, 1183.18, 1601.58, 2784.76, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 12 and result is: 6.85965
+Entering computeVar method
+Leaving computeVar method returning result: 7.1382
+leaving fitGauss method, sum is 1299.39
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 34.788
+Entering computeVar method
+Leaving computeVar method returning result: 91.1445
+leaving fitGauss method, sum is 1577.23
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 11, 1299.39, 1577.23, 2876.61, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 15 and result is: 7.72222
+Entering computeVar method
+Leaving computeVar method returning result: 8.4784
+leaving fitGauss method, sum is 1398.94
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 34.8768
+Entering computeVar method
+Leaving computeVar method returning result: 89.3644
+leaving fitGauss method, sum is 1548.15
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 12, 1398.94, 1548.15, 2947.09, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 15 and result is: 8.2439
+Entering computeVar method
+Leaving computeVar method returning result: 9.40393
+leaving fitGauss method, sum is 1475.51
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 34.9339
+Entering computeVar method
+Leaving computeVar method returning result: 88.2783
+leaving fitGauss method, sum is 1532.97
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 13, 1475.51, 1532.97, 3008.48, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 15 and result is: 8.9375
+Entering computeVar method
+Leaving computeVar method returning result: 10.8503
+leaving fitGauss method, sum is 1572.85
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 35.0108
+Entering computeVar method
+Leaving computeVar method returning result: 86.8955
+leaving fitGauss method, sum is 1518.18
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 14, 1572.85, 1518.18, 3091.03, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 15 and result is: 9.62162
+Entering computeVar method
+Leaving computeVar method returning result: 12.3794
+leaving fitGauss method, sum is 1662.29
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 35.09
+Entering computeVar method
+Leaving computeVar method returning result: 85.5526
+leaving fitGauss method, sum is 1504.2
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 15, 1662.29, 1504.2, 3166.49, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 22 and result is: 10.5113
+Entering computeVar method
+Leaving computeVar method returning result: 14.3251
+leaving fitGauss method, sum is 1759.45
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 35.2017
+Entering computeVar method
+Leaving computeVar method returning result: 83.7718
+leaving fitGauss method, sum is 1493.58
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 16, 1759.45, 1493.58, 3253.03, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 22 and result is: 11.2288
+Entering computeVar method
+Leaving computeVar method returning result: 15.8758
+leaving fitGauss method, sum is 1840.53
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 35.2992
+Entering computeVar method
+Leaving computeVar method returning result: 82.3148
+leaving fitGauss method, sum is 1487.05
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 17, 1840.53, 1487.05, 3327.58, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 22 and result is: 11.8363
+Entering computeVar method
+Leaving computeVar method returning result: 17.3416
+leaving fitGauss method, sum is 1910.08
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 35.3833
+Entering computeVar method
+Leaving computeVar method returning result: 81.1478
+leaving fitGauss method, sum is 1476.61
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 18, 1910.08, 1476.61, 3386.69, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 28 and result is: 12.7035
+Entering computeVar method
+Leaving computeVar method returning result: 19.495
+leaving fitGauss method, sum is 1982.65
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 35.5084
+Entering computeVar method
+Leaving computeVar method returning result: 79.5416
+leaving fitGauss method, sum is 1477.74
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 19, 1982.65, 1477.74, 3460.39, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 38 and result is: 13.7131
+Entering computeVar method
+Leaving computeVar method returning result: 21.7067
+leaving fitGauss method, sum is 2034.93
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 35.6712
+Entering computeVar method
+Leaving computeVar method returning result: 77.6118
+leaving fitGauss method, sum is 1496.42
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 20, 2034.93, 1496.42, 3531.35, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 44 and result is: 14.6975
+Entering computeVar method
+Leaving computeVar method returning result: 23.5277
+leaving fitGauss method, sum is 2054.49
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 35.8522
+Entering computeVar method
+Leaving computeVar method returning result: 75.6387
+leaving fitGauss method, sum is 1523.05
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 21, 2054.49, 1523.05, 3577.55, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 56 and result is: 15.7448
+Entering computeVar method
+Leaving computeVar method returning result: 25.1218
+leaving fitGauss method, sum is 2042.08
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 36.0738
+Entering computeVar method
+Leaving computeVar method returning result: 73.4267
+leaving fitGauss method, sum is 1544.31
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 22, 2042.08, 1544.31, 3586.39, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 70 and result is: 16.8206
+Entering computeVar method
+Leaving computeVar method returning result: 26.3732
+leaving fitGauss method, sum is 1991.37
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 36.3413
+Entering computeVar method
+Leaving computeVar method returning result: 70.9861
+leaving fitGauss method, sum is 1556.42
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 23, 1991.37, 1556.42, 3547.79, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 90 and result is: 17.9396
+Entering computeVar method
+Leaving computeVar method returning result: 27.2599
+leaving fitGauss method, sum is 1918.13
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 36.6755
+Entering computeVar method
+Leaving computeVar method returning result: 68.1942
+leaving fitGauss method, sum is 1551.8
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 24, 1918.13, 1551.8, 3469.93, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 120 and result is: 19.1183
+Entering computeVar method
+Leaving computeVar method returning result: 27.7121
+leaving fitGauss method, sum is 1821.83
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 37.1134
+Entering computeVar method
+Leaving computeVar method returning result: 64.8072
+leaving fitGauss method, sum is 1516.22
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 25, 1821.83, 1516.22, 3338.05, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 150 and result is: 20.2686
+Entering computeVar method
+Leaving computeVar method returning result: 27.7349
+leaving fitGauss method, sum is 1717.44
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 37.6602
+Entering computeVar method
+Leaving computeVar method returning result: 60.8099
+leaving fitGauss method, sum is 1438.87
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 26, 1717.44, 1438.87, 3156.31, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 190 and result is: 21.4065
+Entering computeVar method
+Leaving computeVar method returning result: 27.4555
+leaving fitGauss method, sum is 1608.9
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 38.3674
+Entering computeVar method
+Leaving computeVar method returning result: 55.7524
+leaving fitGauss method, sum is 1360.37
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 27, 1608.9, 1360.37, 2969.26, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 22.4287
+Entering computeVar method
+Leaving computeVar method returning result: 27.1108
+leaving fitGauss method, sum is 1464.05
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 39.2008
+Entering computeVar method
+Leaving computeVar method returning result: 49.6719
+leaving fitGauss method, sum is 1226.91
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 28, 1464.05, 1226.91, 2690.96, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 23.2065
+Entering computeVar method
+Leaving computeVar method returning result: 27.0544
+leaving fitGauss method, sum is 1342.33
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 39.9806
+Entering computeVar method
+Leaving computeVar method returning result: 43.7875
+leaving fitGauss method, sum is 1087.75
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 29, 1342.33, 1087.75, 2430.08, 2152.36, 5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 23.8565
+Entering computeVar method
+Leaving computeVar method returning result: 27.3623
+leaving fitGauss method, sum is 1216.44
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 40.7192
+Entering computeVar method
+Leaving computeVar method returning result: 38.0768
+leaving fitGauss method, sum is 934.733
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 30, 1216.44, 934.733, 2151.18, 2151.18, 30
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 24.3435
+Entering computeVar method
+Leaving computeVar method returning result: 27.948
+leaving fitGauss method, sum is 1100.22
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 41.3027
+Entering computeVar method
+Leaving computeVar method returning result: 33.5546
+leaving fitGauss method, sum is 800.548
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 31, 1100.22, 800.548, 1900.77, 1900.77, 31
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 24.7207
+Entering computeVar method
+Leaving computeVar method returning result: 28.7327
+leaving fitGauss method, sum is 1019.57
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 41.7458
+Entering computeVar method
+Leaving computeVar method returning result: 30.236
+leaving fitGauss method, sum is 706.937
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 32, 1019.57, 706.937, 1726.51, 1726.51, 32
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 25.0701
+Entering computeVar method
+Leaving computeVar method returning result: 29.775
+leaving fitGauss method, sum is 979.675
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 42.1337
+Entering computeVar method
+Leaving computeVar method returning result: 27.5085
+leaving fitGauss method, sum is 622.596
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 33, 979.675, 622.596, 1602.27, 1602.27, 33
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 25.3903
+Entering computeVar method
+Leaving computeVar method returning result: 31.0092
+leaving fitGauss method, sum is 970.325
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 42.4639
+Entering computeVar method
+Leaving computeVar method returning result: 25.3784
+leaving fitGauss method, sum is 568.428
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 34, 970.325, 568.428, 1538.75, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 25.6996
+Entering computeVar method
+Leaving computeVar method returning result: 32.4627
+leaving fitGauss method, sum is 1006.02
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 42.756
+Entering computeVar method
+Leaving computeVar method returning result: 23.6965
+leaving fitGauss method, sum is 558.274
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 35, 1006.02, 558.274, 1564.29, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 26.0566
+Entering computeVar method
+Leaving computeVar method returning result: 34.4095
+leaving fitGauss method, sum is 1068.23
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 43.0653
+Entering computeVar method
+Leaving computeVar method returning result: 22.1468
+leaving fitGauss method, sum is 578.208
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 36, 1068.23, 578.208, 1646.44, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 26.4683
+Entering computeVar method
+Leaving computeVar method returning result: 36.9086
+leaving fitGauss method, sum is 1133.63
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 43.3972
+Entering computeVar method
+Leaving computeVar method returning result: 20.7321
+leaving fitGauss method, sum is 644.427
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 37, 1133.63, 644.427, 1778.06, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 26.9314
+Entering computeVar method
+Leaving computeVar method returning result: 39.9487
+leaving fitGauss method, sum is 1232.25
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 43.7494
+Entering computeVar method
+Leaving computeVar method returning result: 19.4961
+leaving fitGauss method, sum is 705.804
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 38, 1232.25, 705.804, 1938.05, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 27.4862
+Entering computeVar method
+Leaving computeVar method returning result: 43.7795
+leaving fitGauss method, sum is 1359.99
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 44.1562
+Entering computeVar method
+Leaving computeVar method returning result: 18.3712
+leaving fitGauss method, sum is 757.734
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 39, 1359.99, 757.734, 2117.72, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 28.2286
+Entering computeVar method
+Leaving computeVar method returning result: 48.9532
+leaving fitGauss method, sum is 1498.29
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 44.712
+Entering computeVar method
+Leaving computeVar method returning result: 17.177
+leaving fitGauss method, sum is 806.81
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 40, 1498.29, 806.81, 2305.1, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 29.0262
+Entering computeVar method
+Leaving computeVar method returning result: 54.3891
+leaving fitGauss method, sum is 1628.66
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 195 and result is: 45.3636
+Entering computeVar method
+Leaving computeVar method returning result: 16.0574
+leaving fitGauss method, sum is 844.988
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 41, 1628.66, 844.988, 2473.65, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 29.8204
+Entering computeVar method
+Leaving computeVar method returning result: 59.6603
+leaving fitGauss method, sum is 1708.11
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 185 and result is: 46.1035
+Entering computeVar method
+Leaving computeVar method returning result: 15.0041
+leaving fitGauss method, sum is 891.75
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 42, 1708.11, 891.75, 2599.86, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 30.5414
+Entering computeVar method
+Leaving computeVar method returning result: 64.3904
+leaving fitGauss method, sum is 1782.09
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 170 and result is: 46.8902
+Entering computeVar method
+Leaving computeVar method returning result: 14.0335
+leaving fitGauss method, sum is 948.083
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 43, 1782.09, 948.083, 2730.17, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 31.1842
+Entering computeVar method
+Leaving computeVar method returning result: 68.6632
+leaving fitGauss method, sum is 1827.19
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 165 and result is: 47.722
+Entering computeVar method
+Leaving computeVar method returning result: 13.1064
+leaving fitGauss method, sum is 1022.94
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 44, 1827.19, 1022.94, 2850.12, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 31.7954
+Entering computeVar method
+Leaving computeVar method returning result: 72.8477
+leaving fitGauss method, sum is 1808.59
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 120 and result is: 48.6968
+Entering computeVar method
+Leaving computeVar method returning result: 11.9605
+leaving fitGauss method, sum is 1042.84
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 45, 1808.59, 1042.84, 2851.44, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 32.238
+Entering computeVar method
+Leaving computeVar method returning result: 76.0545
+leaving fitGauss method, sum is 1770.77
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 90 and result is: 49.5667
+Entering computeVar method
+Leaving computeVar method returning result: 10.8024
+leaving fitGauss method, sum is 1081.84
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 46, 1770.77, 1081.84, 2852.61, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 32.5755
+Entering computeVar method
+Leaving computeVar method returning result: 78.7201
+leaving fitGauss method, sum is 1743.42
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 80 and result is: 50.331
+Entering computeVar method
+Leaving computeVar method returning result: 9.80714
+leaving fitGauss method, sum is 1084.53
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 47, 1743.42, 1084.53, 2827.94, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 32.8832
+Entering computeVar method
+Leaving computeVar method returning result: 81.3848
+leaving fitGauss method, sum is 1721.5
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 70 and result is: 51.1147
+Entering computeVar method
+Leaving computeVar method returning result: 8.88978
+leaving fitGauss method, sum is 1083.63
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 48, 1721.5, 1083.63, 2805.13, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 33.1602
+Entering computeVar method
+Leaving computeVar method returning result: 84.0042
+leaving fitGauss method, sum is 1692.18
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 60 and result is: 51.9222
+Entering computeVar method
+Leaving computeVar method returning result: 8.02728
+leaving fitGauss method, sum is 1075.95
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 49, 1692.18, 1075.95, 2768.13, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 33.4052
+Entering computeVar method
+Leaving computeVar method returning result: 86.525
+leaving fitGauss method, sum is 1660.65
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 54 and result is: 52.7571
+Entering computeVar method
+Leaving computeVar method returning result: 7.18388
+leaving fitGauss method, sum is 1060.72
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 50, 1660.65, 1060.72, 2721.37, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 33.6329
+Entering computeVar method
+Leaving computeVar method returning result: 89.0656
+leaving fitGauss method, sum is 1622.46
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 35 and result is: 53.7115
+Entering computeVar method
+Leaving computeVar method returning result: 6.12833
+leaving fitGauss method, sum is 1034.97
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 51, 1622.46, 1034.97, 2657.43, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 33.7861
+Entering computeVar method
+Leaving computeVar method returning result: 90.9165
+leaving fitGauss method, sum is 1610.53
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 31 and result is: 54.4959
+Entering computeVar method
+Leaving computeVar method returning result: 5.15907
+leaving fitGauss method, sum is 974.864
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 52, 1610.53, 974.864, 2585.4, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 33.9273
+Entering computeVar method
+Leaving computeVar method returning result: 92.763
+leaving fitGauss method, sum is 1621.95
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 21 and result is: 55.3556
+Entering computeVar method
+Leaving computeVar method returning result: 4.05136
+leaving fitGauss method, sum is 896.509
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 53, 1621.95, 896.509, 2518.46, 1538.75, 34
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 214 and result is: 34.0269
+Entering computeVar method
+Leaving computeVar method returning result: 94.1684
+leaving fitGauss method, sum is 1635.01
+Entering fitGauss method
+Entering computeMean method
+Leaving computeMean method, maxHeight is: 19 and result is: 56.0725
+Entering computeVar method
+Leaving computeVar method returning result: 3.08171
+leaving fitGauss method, sum is 797.016
+dividePt, sum1, sum2, total, minSumDiff, bestThr: 54, 1635.01, 797.016, 2432.02, 1538.75, 34
+leaving biGaussian method, minSumDiff is: 1538.75, bestThr is:34
